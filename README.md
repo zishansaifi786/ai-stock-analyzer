@@ -174,7 +174,7 @@ It is not financial advice. Do not make real investment decisions based on model
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**[zishan]**
 B.Tech CSE Final Year
-[Your College Name]
-[Your GitHub / LinkedIn]
+[teerthank mahaveer university moradabad]
+
